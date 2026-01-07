@@ -61,6 +61,8 @@ Historical stock data is collected using the yfinance library, which provides re
 **Feature Correlation Heatmap**  
 <img width="1142" height="652" alt="image" src="https://github.com/user-attachments/assets/3572e9ff-ac7c-49ae-a7a5-2196e88aef52" />
 
+**Closing Price History of ‘AAPL’ stock over the past 10 years.**
+<img width="1144" height="610" alt="image" src="https://github.com/user-attachments/assets/69d82021-9c8d-4264-b05b-da943bdba02e" />
 
 ---
 
@@ -73,7 +75,8 @@ An ensemble learning model used to handle non-linear relationships and noise in 
 - Limitation: Limited ability to capture sequential dependencies  
 
 **Visualization:**  
-*Location:* `visuals/random_forest_prediction.png`
+<img width="846" height="457" alt="image" src="https://github.com/user-attachments/assets/81860460-547c-4610-9c33-842f010fe6a1" />
+
 
 ---
 
@@ -86,9 +89,8 @@ LSTM is a specialized recurrent neural network designed to model sequential and 
 - Sliding window input sequence  
 
 **Visualizations:**
-*Location:* `visuals/lstm_architecture.png`
+<img width="847" height="458" alt="image" src="https://github.com/user-attachments/assets/a5161efc-ea25-4fb0-b99e-a9730637bfcd" />
 
-*Location:* `visuals/lstm_prediction.png`
 
 ---
 
@@ -103,7 +105,8 @@ The dataset is split into:
 - Root Mean Squared Error (RMSE)  
 
 **Model Comparison Visualization:**  
-*Location:* `visuals/model_comparison.png`
+<img width="1529" height="815" alt="image" src="https://github.com/user-attachments/assets/5b4dec85-06b9-40e9-92f7-44c57af18c36" />
+
 
 **Key Insight:**  
 LSTM outperformed Random Forest in capturing sequential dependencies and volatile price movements, making it the preferred model for this project.
@@ -124,7 +127,12 @@ The system is implemented using custom Python classes to modularize functionalit
 - Google (GOOGL): 20%  
 
 **Portfolio Visualization:**  
-*Location:* `visuals/portfolio_comparison.png`
+<img width="1256" height="683" alt="image" src="https://github.com/user-attachments/assets/e21a87b2-2e19-4f2b-a1da-2ab545cef2e5" />
+<img width="1300" height="708" alt="image" src="https://github.com/user-attachments/assets/be7fd1ee-40d2-4f83-b712-d0fad51e8e48" />
+<img width="1278" height="696" alt="image" src="https://github.com/user-attachments/assets/7905d0de-2c57-4dd4-a7f0-63d89cf53358" />
+
+**Stock Comparison:** 
+<img width="1255" height="683" alt="image" src="https://github.com/user-attachments/assets/100a3c14-beb0-44e1-96aa-11fe8d406c8b" />
 
 ---
 
