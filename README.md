@@ -59,7 +59,8 @@ Historical stock data is collected using the yfinance library, which provides re
 
 ### 📌 Visualization
 **Feature Correlation Heatmap**  
-*Location:* `visuals/feature_correlation_heatmap.png`
+<img width="1142" height="652" alt="image" src="https://github.com/user-attachments/assets/3572e9ff-ac7c-49ae-a7a5-2196e88aef52" />
+
 
 ---
 
