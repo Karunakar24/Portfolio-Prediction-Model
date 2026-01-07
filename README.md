@@ -41,18 +41,6 @@ The model focuses on a sample portfolio consisting of Apple (AAPL), Tesla (TSLA)
 
 ---
 
-## 📂 Project Structure
-Portfolio-Prediction-Model/
-- │
-- ├── notebooks/ # Jupyter notebooks (EDA, modeling)
-- ├── data/ # Stock price datasets (if included)
-- ├── src/ # Custom Python classes & scripts
-- ├── visuals/ # Plots and result visualizations
-- ├── README.md
-- └── .gitignore
-
----
-
 ## 📊 Data Collection & Preprocessing
 Historical stock data is collected using the yfinance library, which provides reliable financial market data.
 
